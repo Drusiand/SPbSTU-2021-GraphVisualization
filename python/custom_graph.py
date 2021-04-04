@@ -79,8 +79,8 @@ class custom_graph:
                     getter for __gif_success field
 
     """
-    __gif_output_dir = "../gif/"
-    __graph_input_dir = "../graph/"
+    __gif_output_dir = "./gif/"
+    __graph_input_dir = "./graph/"
     __gif_dfs_ending = "_dfs.gif"
     __gif_bfs_ending = "_bfs.gif"
     __draw_success = False
