@@ -1,1 +1,1 @@
-# SPbSTU-2021-GraphVisualization
+# Graph visualization
