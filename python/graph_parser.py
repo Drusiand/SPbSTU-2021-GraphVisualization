@@ -1,11 +1,7 @@
 import networkx as nx
 from python.file_reader import file_reader
 
-__line_delimiter = "\n"
-__node_line_delimiter = "nodes:"
-__edge_line_delimiter = "edges:"
 __token_delimiter = ","
-__ne_pair_delimiter = ";"
 __node_edges_delimiter = ":"
 
 _wrong_input_errmsg = "ERROR: wrong input file"
