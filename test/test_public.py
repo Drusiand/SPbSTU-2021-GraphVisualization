@@ -1,7 +1,7 @@
 import pytest
-from python.custom_graph import custom_graph
+from .custom_graph import custom_graph
 import networkx as nx
-from python.graph_search import BFS, DFS
+from .graph_search import BFS, DFS
 
 __test_graph_1 = "graph1.txt"
 __test_graph_2 = "graph2.txt"
